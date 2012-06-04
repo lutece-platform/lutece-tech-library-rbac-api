@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Librairie RBAC API</title>
+	</properties>
+	<body>
+		<section name="Librairie RBAC API">
+			<subsection name="Introduction">
+				<p>
+					Cette librairie fournit les interfaces RBAC.
+				</p>
+			</subsection>
+		</section>
+	</body>
+</document>
