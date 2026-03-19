@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>library-rbac-api</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1-SNAPSHOT</version>
     <name>API Lutece RBAC</name>
     <description>API Lutece RBAC Library</description>
     
@@ -43,6 +43,6 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-tech-library-rbac-api.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-tech-library-rbac-api.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-tech-library-rbac-api.git</url>
-      <tag>library-rbac-api-2.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
